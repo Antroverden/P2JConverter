@@ -1,2 +1,2 @@
 # P2JConverter
-This app converts Collection of postman tests to Java code
+This app converts Postman Collection of tests to Java tests (JUnt5 + Mockito)
